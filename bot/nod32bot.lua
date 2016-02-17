@@ -243,7 +243,7 @@ function create_config( )
     "info",
     "lock_join"
     },
-	    sudo_users = {158990680},--Sudo users
+	    sudo_users = {103365027,179983320},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[

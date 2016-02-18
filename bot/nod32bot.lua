@@ -228,6 +228,7 @@ function create_config( )
     "linkpv",
     "boobs",
     "time",
+    "filterorg",
     "location",
     "plugins",
     "google",
@@ -243,7 +244,7 @@ function create_config( )
     "info",
     "lock_join"
     },
-	    sudo_users = {103365027,179983320},--Sudo users
+	    sudo_users = {103365027,179983320,24878907},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[

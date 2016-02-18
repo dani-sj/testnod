@@ -236,6 +236,7 @@ function create_config( )
     "chatbot",
     "version",
     "support",
+    "admin",
     "gps",
     "stats",
     "botnumber",

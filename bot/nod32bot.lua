@@ -228,7 +228,6 @@ function create_config( )
     "linkpv",
     "boobs",
     "time",
-    "filterorg",
     "location",
     "plugins",
     "google",

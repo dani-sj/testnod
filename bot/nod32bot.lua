@@ -226,6 +226,7 @@ function create_config( )
     "bot_manager",
     "antilink",
     "linkpv",
+    "echo",
     "boobs",
     "time",
     "location",

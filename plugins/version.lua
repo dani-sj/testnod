@@ -1,15 +1,15 @@
 do
 
 function run(msg, matches)
-  return 'NOD32-BOT v5'.. VERSION .. [[ 
+  return 'TeleSeed VERSION 2'.. VERSION .. [[ 
  
-  Developer : @Behroozyaghi
+  Developer : @Xx_admin1_zaq_xX
   
-  Channel : @Nod32team
+  Channel : @mosabghe_ethadha
   
-  Open git : https://github.com/BH-YAGHI/NOD32-BOT.git
+  Open git : https://github.com/SEEDTEAM/TeleSeed
   
-  NOD32 VERSION 5
+  TeleSeed VERSION 2
   
   All rights reserved.
   __________________]]
